@@ -1,3 +1,6 @@
+# Discente: Pedro Henrique 
+# Curso: Ciências de Dados
+
 import numpy as np # Para cálculos numéricos, como a média
 import pandas as pd # Para manipular dados em DataFrames e salvar em CSV
 
